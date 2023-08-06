@@ -1,1 +1,2 @@
-# TechnoHack-Edutech-Internship
+# TechnoHack-Edutech
+Task 3: Calculator
